@@ -1,0 +1,315 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+ 
+ 
+.mainbody {
+    height: 3000px;
+    width: 100%;
+    background-color: white;
+}
+.main image{position: absolute;
+top: 30px;
+left: 100px;}
+
+.main {
+
+    height: 80px;
+    width: 100%;
+    
+    
+   
+
+}
+ 
+
+.main h1 {
+    width: 50%;    
+    left: 30px;
+    position: absolute;
+    top: 20px;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    text-transform: capitalize;
+    font-size: 30px;
+    box-sizing: border-box;
+  
+    color: chartreuse;
+    text-transform: capitalize;
+}
+
+.main2 {
+    margin: 0px;
+    height: 80px;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    font-weight: bold;
+    text-transform: capitalize;
+    display: inline-flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+
+
+}
+
+.main2 .home {
+    width: 20%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.main2 .home a {
+    color: black;
+    font-size: 30px;
+    height: 20%;
+    text-decoration: none;
+    height: 100px;
+    box-sizing: border-box;
+
+
+}
+
+.main2 .home:hover {
+    background-color: pink;
+}
+
+.main2 .about {
+    width: 20%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main2 .about a {
+    color: black;
+    font-size: 30px;
+    height: 20%;
+    text-decoration: none;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.main2 .about:hover {
+    background-color: pink;
+}
+
+.main2 .service {
+    width: 20%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main2 .service a {
+    color: black;
+    font-size: 30px;
+    height: 20%;
+    text-decoration: none;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.main2 .service:hover {
+    background-color: pink;
+}
+
+.main2 .blog {
+    width: 20%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main2 .blog a {
+    color: black;
+    font-size: 30px;
+    height: 20%;
+    text-decoration: none;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.main2 .blog:hover {
+    background-color: pink;
+}
+
+.main2 .contact {
+    width: 20%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main2 .contact a {
+    color: black;
+    font-size: 30px;
+    height: 20%;
+    text-decoration: none;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.main2 .contact:hover {
+    background-color: pink;
+}
+
+.center {
+    height: 700px;
+    width: 100%;
+}
+
+.center img {
+    background-position: initial;
+    height: 700px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.center img:hover {
+    opacity: 0.8;
+}
+
+.center p {
+    position: absolute;
+    top: 330px;
+    left: 1180px;
+    font-size: 25px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 10px 15px black;
+}
+
+.center h1 {
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    font-size: 20px;
+    font-style: oblique;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 10px 10px 15px black;
+}
+
+.container {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    margin-top: 700px;
+    text-align: center;
+}
+
+.container h1 {
+    color: green;
+    font-size: 25px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container p {
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.footer {
+    height: 700px;
+    margin-top: 10px;
+    width: 100%;
+    color: black;
+    display: inline-block;
+
+}
+
+.footer .computer {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+    font-size: 12px;
+    color: grey;
+}
+
+
+
+
+.footer .setting {
+    text-align: center;
+    float: left;
+    width: 33%;
+    font-size: 12px;
+    color: grey;
+}
+
+.footer .speaker {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+    font-size: 12px;
+    color: grey;
+}
+
+.footer .computer img {
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.footer .speaker img {
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.footer .setting img {
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.footer button {
+    font-size: 20px;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(47, 169, 28);
+    color: black;
+    border: 1px solid rgb(47, 169, 28);
+    border-radius: 7px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.footer1 h1 {
+    color: gray;
+    position: absolute;
+    top: 1400px;
+    font-size: 20px;
+    left: 38%;
+
+}
+
+.footer1 p {
+    color: gray;
+    position: absolute;
+    top: 1350px;
+    left: 45%;
+    font-size: 40px;
+
+}
+
+hr {
+    text-align: right;
+    width: 43%;
+    position: absolute;
+    top: 1450px;
+
+    left: 33%;
+}

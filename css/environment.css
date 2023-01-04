@@ -1,0 +1,162 @@
+ .header {
+     height: 150px;
+     width: 100%;
+     margin-top: 0px;
+     background-color: rgb(207, 232, 216);
+     text-align: center;
+     box-sizing: border-box;
+     font-size: 30px;
+     text-transform: capitalize;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+     color: gray;
+     border-bottom: 1px solid grey;
+    padding-top: 8px;
+     box-shadow: 1px  3px grey;
+     z-index: 1;
+     position: sticky;
+     top: 0px;
+ }
+
+ .footer2 .himalya {
+     height: 500px;
+     width: 100%;
+ }
+
+ .footer2 .himalya img {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     margin-top: 20px;
+     float: left;
+     box-shadow: 5px 5px 30px 1px grey;
+ }
+
+ .footer2 .himalya p {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     float: right;
+     font-size: 40px;
+     text-align: center;
+     margin-right: 50px;
+     margin-top: 50px;
+ }
+
+ .footer2 .mountain {
+     height: 500px;
+     width: 100%;
+ }
+
+
+ .footer2 .mountain img {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-right: 50px;
+     float: right;
+     box-shadow: 5px 5px 30px 5px grey;
+ }
+
+ .footer2 .mountain p {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     float: left;
+     font-size: 40px;
+     text-align: center;
+     margin-left: 50px;
+     margin-top: 50px;
+ }
+
+
+ .footer2 .anaconda {
+     height: 500px;
+     width: 100%;
+ }
+
+
+ .footer2 .anaconda img {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     float: left;
+
+     box-shadow: 5px 5px 30px 5px grey;
+ }
+
+ .footer2 .anaconda p {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     float: right;
+     font-size: 38px;
+     text-align: center;
+     margin-right: 50px;
+     margin-top: 20px;
+ }
+
+
+ .footer2 .python {
+     height: 500px;
+     width: 100%;
+ }
+
+
+ .footer2 .python img {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-right: 50px;
+     float: right;
+     box-shadow: 5px 5px 30px 5px grey;
+ }
+
+ .footer2 .python p {
+     height: 400px;
+     width: 40%;
+     border-radius: 20px;
+     margin-left: 50px;
+     float: left;
+     font-size: 40px;
+     text-align: center;
+     margin-left: 50px;
+     margin-top: 30px;
+ }
+
+ .himalya h1 {
+     position: absolute;
+     top: 200px;
+     left: 200px;
+     text-transform: capitalize;
+ }
+
+ .mountain h1 {
+     position: absolute;
+     top: 670px;
+     left: 890px;
+     text-transform: capitalize;
+ }
+
+ .python h1 {
+     position: absolute;
+     top: 1680px;
+     left: 950px;
+     text-transform: capitalize;
+ }
+
+ .anaconda h1 {
+     position: absolute;
+     top: 1150px;
+     left: 80px;
+     text-transform: capitalize;
+ }
+ .python img:hover{opacity: 0.8;}
+ .himalya img:hover{opacity: 0.8;}
+ .anaconda img:hover{opacity: 0.8;}
+
+ .mountain img:hover{opacity: 0.8;}
